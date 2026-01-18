@@ -35,7 +35,7 @@ const Navbar: React.FC = () => {
         {/* Logo Area */}
         <a href="#" className="flex items-center gap-3 group">
           <img 
-            src="logo.png" 
+            src="image.png" 
             alt="Amora Pizza" 
             className="w-12 h-12 object-contain"
           />
